@@ -1,0 +1,4 @@
+constructors = g(1),f(2),h(3),A(0)
+variables = x,y,z,w,v
+first = f(h(g(x), f(x,y), A), w)
+second = f(h(g(A), v, A), h(x, A, g(v)))

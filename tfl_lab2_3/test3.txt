@@ -1,0 +1,6 @@
+S -> aN
+S -> bS
+N -> bN
+N -> aN
+N -> b
+N -> a

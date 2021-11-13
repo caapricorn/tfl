@@ -1,0 +1,3 @@
+Y=aX + a
+X = (a|b)X+bY+aab
+Z = a|b Z
